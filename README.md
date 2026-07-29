@@ -3,13 +3,13 @@
 > A production-quality Progressive Web Application for personal task management.
 > Built following **Pressman's Software Engineering: A Practitioner's Approach**.
 
-![GitHub Actions](https://github.com/muhammadmolaee/taskflow/actions/workflows/deploy.yml/badge.svg)
+![GitHub Actions](https://github.com/muhmol/taskflow/actions/workflows/deploy.yml/badge.svg)
 ![Version](https://img.shields.io/badge/version-1.0.0-indigo)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 ## 🌐 Live Demo
 
-👉 [https://muhammadmolaee.github.io/taskflow/](https://muhammadmolaee.github.io/taskflow/)
+👉 [https://muhmol.github.io/taskflow/](https://muhmol.github.io/taskflow/)
 
 ---
 
@@ -234,7 +234,7 @@ Category {
 
 ```bash
 # Clone the repository
-git clone https://github.com/muhammadmolaee/taskflow.git
+git clone https://github.com/muhmol/taskflow.git
 
 # Navigate to project folder
 cd taskflow
@@ -359,7 +359,7 @@ Every push to `main` automatically:
 ### Live URL
 
 ```
-https://muhammadmolaee.github.io/taskflow/
+https://muhmol.github.io/taskflow/
 ```
 
 ---
